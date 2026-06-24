@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/*.npy
+.pytest_cache/
+docs/
+report_draft.md
+requirement.pdf
